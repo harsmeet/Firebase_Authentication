@@ -20,8 +20,6 @@ import com.google.firebase.database.ValueEventListener;
 
 public class Welcome_Activity extends AppCompatActivity {
     private static final String Tag = "ViewDatabase";
-
-    //firebase database stuff
     private FirebaseDatabase mFirebaseDatabase;
     private FirebaseAuth mAuth;
     private FirebaseAuth.AuthStateListener mAuthListener;

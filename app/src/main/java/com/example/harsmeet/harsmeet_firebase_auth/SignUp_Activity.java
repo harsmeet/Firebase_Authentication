@@ -57,7 +57,6 @@ public class SignUp_Activity extends AppCompatActivity implements View.OnClickLi
          e.printStackTrace();
         }
 
-
         }
         public void registerUser() {
         String email = SignUpEmail.getText().toString().trim();
@@ -129,9 +128,6 @@ public class SignUp_Activity extends AppCompatActivity implements View.OnClickLi
                 }catch (Exception e){
                     e.printStackTrace();
                 }
-
-
-
             }
         });
 
