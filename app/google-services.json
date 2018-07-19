@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "398308922654",
+    "firebase_url": "https://fir-authentication-9e6fd.firebaseio.com",
+    "project_id": "fir-authentication-9e6fd",
+    "storage_bucket": "fir-authentication-9e6fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398308922654:android:fa5772ee32d71c04",
+        "android_client_info": {
+          "package_name": "com.example.harsmeet.harsmeet_firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398308922654-7fb3kg9a0hsrffpigbvnsd0nde09kabh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harsmeet.harsmeet_firebase_auth",
+            "certificate_hash": "0282abf6d38b87407a409017a40b919f5ad9d5c1"
+          }
+        },
+        {
+          "client_id": "398308922654-2rfl43b5n93l3on0todumlpp8msldas7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harsmeet.harsmeet_firebase_auth",
+            "certificate_hash": "ea61247508436ff23ffe1b340bccfd98355bd7d0"
+          }
+        },
+        {
+          "client_id": "398308922654-b9jkdkm9iab2atnocnlfnu2ki1ve90bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQCNgwEH_sq0BFSXq5vMJdBLmCaw5Vz2A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398308922654-b9jkdkm9iab2atnocnlfnu2ki1ve90bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
